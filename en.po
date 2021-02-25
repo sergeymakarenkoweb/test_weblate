@@ -15,3 +15,6 @@ msgstr ""
 
 msgid "sasdasd"
 msgstr "qweqweqwe"
+
+msgid "string"
+msgstr "String"
