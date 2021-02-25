@@ -1,3 +1,3 @@
 <?php
-$string = 'String';
-$string = 'String';
+return [
+];
